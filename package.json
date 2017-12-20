@@ -1,0 +1,18 @@
+{
+  "name": "yuppienalle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "virtualjoystick.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^2.6.1",
+    "websocket": "^1.0.24"
+  },
+  "dependencies": {
+    "react": "^15.5.4"
+  }
+}
